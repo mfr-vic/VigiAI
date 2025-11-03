@@ -14,27 +14,6 @@ env/
 # Jupyter notebooks
 .ipynb_checkpoints/
 
-# Arquivos dos dados
-data/raw/
-data/processed/
-data/labels/
-data/db/
-data/ndvi/
-
-# Arquivos do modelo
-models/
-*.h5
-*.pkl
-
-# Arquivos de output
-output/
-logs/
-reports/
-figures/
-
-# Backup
-backup/
-
 # Config
 *.log
 *.sql

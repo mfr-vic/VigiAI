@@ -1,4 +1,4 @@
-# VigiAI — Detecção e Monitoramento de Queimadas na Amazônia.
+# VigiAI — Detecção e monitoramento de desmatamento na Amazônia.
 
 Aplicação acadêmica referente às matérias de **Processamento de Imagens e Visão Computacional** para detecção de **queimadas e desmatamentos na Amazônia**, utilizando **NDVI (Índice de Vegetação por Diferença Normalizada)**, **CNNs (Tensorflow/Keras)**, **Google Earth Engine (Sentinel‑2)** e **dashboard HTML interativo** (Folium + Plotly) para classificar imagens e identificar áreas afetadas..
 

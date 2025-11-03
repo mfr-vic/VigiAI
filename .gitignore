@@ -1,0 +1,65 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Ambiente virtual
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Arquivos dos dados
+data/raw/
+data/processed/
+data/labels/
+data/db/
+data/ndvi/
+
+# Arquivos do modelo
+models/
+*.h5
+*.pkl
+
+# Arquivos de output
+output/
+logs/
+reports/
+figures/
+
+# Backup
+backup/
+
+# Config
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+
+# OS 
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Python pacotes
+.Python
+build/
+dist/
+*.egg-info/
+
+# pytest
+*.coveragerc
+*.hypothesis/
+
+# Arquivos temp
+*.swp
+*.swo
+*.bak

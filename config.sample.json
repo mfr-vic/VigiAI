@@ -1,0 +1,24 @@
+{
+  "gee": {
+    "collection": "COPERNICUS/S2_SR_HARMONIZED",
+    "aoi_geojson": null,
+    "bbox_approx": [-70, -7, -60, 0],
+    "start_date": "2025-10-01",
+    "end_date": "2025-11-01",
+    "cloud_filter": 20,
+    "max_tiles": 6,
+    "export_scale": 60,
+    "export_previews": false,
+    "drive_folder": "VigiAI"
+  },
+  "cnn": {
+    "input_size": [
+      128,
+      128
+    ],
+    "batch_size": 8,
+    "epochs": 3,
+    "learning_rate": 0.0005,
+    "augment": true
+  }
+}
